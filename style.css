@@ -29,6 +29,9 @@ ul {
 
 footer {
   background-color: #C0FF88;
+}
+
+footer img {
   width: 171px;
   height: 64px;
 }
