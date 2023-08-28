@@ -23,4 +23,12 @@ nav a{
 
 ul {
   list-style: url("images/галочка.png")
+  width: 46px;
+  height: 38px;
+}
+
+footer {
+  bacground-color: #C0FF88;
+  width: 171px;
+  height: 64px;
 }
