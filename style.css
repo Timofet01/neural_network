@@ -8,6 +8,9 @@ nav a{
   width: 151px;
   height: 37px;
   border-radius: 20px;
+  text-decoration: none;
+  pading: 5px;
+  margin: 30px;
 }
 
 .pass_active {
