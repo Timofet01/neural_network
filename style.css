@@ -3,3 +3,17 @@ header {
   height: 77px;
   width: 430px;
 }
+
+nav a{
+  width: 151px;
+  height: 37px;
+  border-radius: 20px;
+}
+
+.pass_active {
+  background: rgba(166, 12, 61, 0.50);
+}
+
+.pass_off {
+  background: #C0FF88;
+}
