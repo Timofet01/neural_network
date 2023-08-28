@@ -20,3 +20,7 @@ nav a{
 .pass_off {
   background: #C0FF88;
 }
+
+ul {
+  list-style: url("images/галочка.png")
+}
