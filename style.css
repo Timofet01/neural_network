@@ -22,7 +22,7 @@ nav a{
 }
 
 ul {
-  list-style: square; url("images/галочка.png")
+  list-style: square url("images/галочка.png")
   width: 46px;
   height: 38px;
 }
