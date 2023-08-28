@@ -22,7 +22,7 @@ nav a{
 }
 
 ul {
-  list-style: square url("images/галочка.png")
+  list-style: url("images/Rectangle 13.png")
   width: 46px;
   height: 38px;
 }
