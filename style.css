@@ -21,8 +21,10 @@ nav a{
   height: 70px;
   border-radius: 20px;
   text-decoration: none;
-  pading: 10px;
-  margin: 45px;  
+  pading: 30px;
+  margin: 45px; 
+  text-align: center;
+  font-size: 30px;
 }
 
 nav {
