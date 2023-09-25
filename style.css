@@ -43,19 +43,19 @@ nav {
 }
 
 ol {
-  text-size: 30px;
+  font-size: 30px;
 }
 
 ul {
   list-style: url("images/Rectangle 13.png")
-  text-size: 30px;
+  font-size: 30px;
 }
 
 footer {
   background-color: #C0FF88;
   height: 77px;
   width: 100%;
-  text-size: 30px;
+  font-size: 30px;
 }
 
 footer img {
@@ -68,10 +68,10 @@ h3 {
 }
 
 li, h7 {
-  text-size: 30px;
+ font-size: 30px;
 }
 
 ol {
   bacrground-color: #C0FF88;
-  text-size: 30px;
+  font-size: 30px;
 }
