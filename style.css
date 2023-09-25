@@ -1,7 +1,18 @@
 header {
   background-color: #C0FF88;
   height: 77px;
-  width: 430px;
+  width: 100%;
+}
+
+.Header_img {
+  float: right;
+  height: 50px;
+  width: 50px;
+}
+
+h1 {
+  display: flex;
+  justify-content: center;
 }
 
 nav a{
