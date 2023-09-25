@@ -22,7 +22,12 @@ nav a{
   border-radius: 20px;
   text-decoration: none;
   pading: 10px;
-  margin: 45px;
+  margin: 45px;  
+}
+
+nav {
+  display: flex;
+  justify-content: space-around;
 }
 
 .pass_active {
