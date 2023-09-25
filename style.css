@@ -48,6 +48,7 @@ ol {
 
 ul {
   list-style: url("images/Rectangle 13.png")
+  text-size: 30px;
 }
 
 footer {
@@ -67,4 +68,5 @@ h3 {
 
 ol {
   bacrground-color: #C0FF88;
+  text-size: 30px;
 }
