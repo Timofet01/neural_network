@@ -28,6 +28,8 @@ nav a{
 nav {
   display: flex;
   justify-content: space-around;
+  margin: 45px;
+  pading: 10px;
 }
 
 .pass_active {
