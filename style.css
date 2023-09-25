@@ -67,6 +67,10 @@ h3 {
   bacrground-color: #C0FF88;
 }
 
+li, h7 {
+  text-size: 30px;
+}
+
 ol {
   bacrground-color: #C0FF88;
   text-size: 30px;
