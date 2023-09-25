@@ -42,6 +42,10 @@ nav {
   background: #C0FF88;
 }
 
+ol {
+  text-size: 30px;
+}
+
 ul {
   list-style: url("images/Rectangle 13.png")
 }
